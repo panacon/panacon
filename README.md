@@ -32,8 +32,9 @@ Live site: www.herti.co.za
 
 ## Current Projects in Development
 
--Herti Deli has asked me to design and build a retail loyalty system. This project is still in the discussion phase but will be moving to production shortly.
--All presonal projects include playing around with AI Automations, especially how AI can imporve my own workflows and make my work more efficient. This is a constant project that evolves with every new requirement.
+Herti Deli has asked me to design and build a retail loyalty system. This project is still in the discussion phase but will be moving to production shortly.
+
+All presonal projects include playing around with AI Automations, especially how AI can imporve my own workflows and make my work more efficient. This is a constant project that evolves with every new requirement.
 
 ## Documentation
 
@@ -41,9 +42,11 @@ Included as part of all projects completed is the documentation layer. This incl
 
 ## Background
 
--Matriculated with full distinctions in 2021. 
--Completed the first year of a BSc in Computer Science at the University of Cape Town, achieving a 90 percent average, before transferring to Informatics at the University of Pretoria. 
--Spent a gap year working for Nexco Computing in hands on IT services, which gave me practical exposure to infrastructure and support before moving into development.
+Matriculated with full distinctions in 2021.
+
+Completed the first year of a BSc in Computer Science at the University of Cape Town, achieving a 90 percent average, before transferring to Informatics at the University of Pretoria. 
+
+Spent a gap year working for Nexco Computing in hands on IT services, which gave me practical exposure to infrastructure and support before moving into development.
 
 ## Contact
 
